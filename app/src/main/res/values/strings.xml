@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Receptek</string>
+    <string name="title_book">Receptkönyv</string>
+    <string name="title_search">Keresés</string>
+    <string name="title_new">Új recept</string>
+    <string name="title_setup">Beállitások</string>
+    <string name="title_home">Szoveg</string>
+    <string name="title_activity_setup">Setup</string>
+    <string name="title_setup_rcpt">Recept beállítások</string>
+    <string name="title_setup_prg">Program beállítások</string>
+    <string name="txt_setup_tip">Recept típusok</string>
+    <string name="txt_setup_csop">Ételcsoportok</string>
+    <string name="txt_setup_shared">Megosztott receptek</string>
+    <string name="txt_setup_inact">Félkész/inaktív receptek</string>
+    <string name="txt_setup_lang">Nyelv</string>
+    <string name="txt_setup_bckp">Biztonsági mentés</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bb">Bb</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_cc">cc</string>
+    <string name="title_activity_new_recipe">NewRecipe</string>
+    <string name="txt_rectip">Recept tipus</string>
+    <string name="txt_tipid">Tipus id</string>
+    <string name="txt_csopid">Csoport id</string>
+    <string name="txt_recnev">Recept neve</string>
+    <string name="txt_recleiras">Recept leirása</string>
+    <string name="txt_recpic">Kép(ek)</string>
+    <string name="txt_recshared">Megosztott</string>
+
+
+</resources>
